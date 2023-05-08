@@ -1,0 +1,2 @@
+# ExamPractical
+ MVC Core Apllication
